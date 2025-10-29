@@ -1,4 +1,4 @@
-##  Heading
+
 <div align="center">
   <br />
   <div>
