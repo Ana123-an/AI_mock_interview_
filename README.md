@@ -1,9 +1,4 @@
-Sure — here’s the **complete ready-to-paste `README.md` file** for your project.
-You can copy it as-is and place it in your project root folder as `README.md` 👇
-
----
-
-````markdown
+##  Heading
 <div align="center">
   <br />
   <div>
